@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nano</h1>
 
-### 🥋 My Codewars
-
-![Codewars Badges](https://www.codewars.com/users/0xSOL/badges/large)
+My Codewars — It may not be interesting, but I'm better than I was yesterday😀.
 
 [![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=0xSOL)](https://www.codewars.com/users/0xSOL)
 
