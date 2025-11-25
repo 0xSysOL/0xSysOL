@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nano</h1>
 
-![Codewars](https://github-readme-codewars-stats.vercel.app/api/?username=0xSOL&badge=true)
+![Codewars Badges](https://www.codewars.com/users/0xSOL/badges/large)
 
 
 <h3 align="left">Languages and Tools:</h3>
